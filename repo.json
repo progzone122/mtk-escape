@@ -1,0 +1,136 @@
+{
+  "endpoints": {
+    "da_files": "https://github.com/progzone122/mtk-escape/raw/refs/heads/da-files",
+    "auth_files": "https://github.com/progzone122/mtk-escape/raw/refs/heads/auth-files"
+  },
+  "devices": {
+    "motorola": {
+      "penangf": {
+        "name": "G13/G23",
+        "da_files": [
+          {
+            "path": "da/motorola/MT6768_USER.bin",
+            "flags": {
+              "carbonara": true
+            }
+          },
+          {
+            "path": "da/motorola/DA_PL_NO_CERT_V6.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "fogorow": {
+        "name": "G24/G24 Power",
+        "da_files": [
+          {
+            "path": "da/motorola/DA_fogorow.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "lamu": {
+        "name": "G05/G15",
+        "da_files": [
+          {
+            "path": "da/motorola/DA_A15_lamu.bin",
+            "flags": {
+              "carbonara": false
+            }
+          },
+          {
+            "path": "da/motorola/DA_SWSEC_2404_lamu_dl_forbidden.bin",
+            "flags": {
+              "carbonara": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "lamulg": {
+        "name": "E15",
+        "da_files": [
+          {
+            "path": "da/motorola/DA_A14_lamulg.bin",
+            "flags": {
+              "carbonara": false
+            }
+          },
+          {
+            "path": "da/motorola/DA_SWSEC_2404_lamu_lite_go_dl_forbidden.bin",
+            "flags": {
+              "carbonara": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "tabg70": {
+        "name": "TAB G70",
+        "da_files": [
+          {
+            "path": "da/motorola/MOTO_G70.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "tab_g20": {
+        "name": "TAB G20",
+        "da_files": [
+          {
+            "path": "da/motorola/MOTO_G20.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "blackjack": {
+        "name": "G8 Power Lite",
+        "da_files": [
+          {
+            "path": "da/motorola/moto_xt2055.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "hawaii_p": {
+        "name": "G22",
+        "da_files": [
+          {
+            "path": "da/motorola/XT2231.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "hawaiipll": {
+        "name": "E32s",
+        "da_files": [
+          {
+            "path": "da/motorola/MT6765_XT2229.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ],
+        "auth_file": null
+      }
+    }
+  }
+}
