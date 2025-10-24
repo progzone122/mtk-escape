@@ -1,8 +1,5 @@
 {
-  "endpoints": {
-    "da_files": "https://github.com/progzone122/mtk-escape/raw/refs/heads/da-files",
-    "auth_files": "https://github.com/progzone122/mtk-escape/raw/refs/heads/auth-files"
-  },
+  "endpoint": "https://mtkescape.diablosat.cc",
   "devices": {
     "motorola": {
       "penangf": {
