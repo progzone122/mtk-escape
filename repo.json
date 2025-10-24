@@ -128,6 +128,190 @@
         ],
         "auth_file": null
       }
+    },
+    "huawei": {
+      "lily": {
+        "name": "HONOR 200 LITE",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          },
+          {
+            "path": "da/huawei/Honor 200 Lite.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "bali": {
+        "name": "HONOR 90 LITE 5G",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "clk_n": {
+        "name": "HONOR 90 SMART",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "rky_an00": {
+        "name": "HONOR Play 40 Plus",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "clk_an00": {
+        "name": "HONOR Play 50 Plus",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "rky_an10": {
+        "name": "HONOR Play 7T",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "clk_an00_2": {
+        "name": "HONOR PLAY 8T",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "dio_an_00": {
+        "name": "HONOR X40I",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "wod_lx3": {
+        "name": "HONOR X5 Plus",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6765_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "crt_an00": {
+        "name": "HONOR X50I",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "lly_an00": {
+        "name": "HONOR X50I Plus",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "gfy_lx2": {
+        "name": "HONOR X5B",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6765_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "vne_lx2": {
+        "name": "HONOR X6",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6765_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "wdy_lx1": {
+        "name": "HONOR X6A",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6765_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "jdy_lx2": {
+        "name": "HONOR X6B",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6833_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      },
+      "rky_l03": {
+        "name": "HONOR X7A",
+        "da_files": [
+          {
+            "path": "da/huawei/DA_PL_M6765_HONOR.bin",
+            "flags": {
+              "carbonara": true
+            }
+          }
+        ]
+      }
     }
   }
 }
