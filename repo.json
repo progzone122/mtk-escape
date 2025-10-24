@@ -136,16 +136,19 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           },
           {
             "path": "da/huawei/Honor 200 Lite.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "bali": {
         "name": "HONOR 90 LITE 5G",
@@ -153,10 +156,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "clk_n": {
         "name": "HONOR 90 SMART",
@@ -164,10 +169,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "rky_an00": {
         "name": "HONOR Play 40 Plus",
@@ -175,10 +182,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "clk_an00": {
         "name": "HONOR Play 50 Plus",
@@ -186,10 +195,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "rky_an10": {
         "name": "HONOR Play 7T",
@@ -197,10 +208,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "clk_an00_2": {
         "name": "HONOR PLAY 8T",
@@ -208,10 +221,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "dio_an_00": {
         "name": "HONOR X40I",
@@ -219,10 +234,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "wod_lx3": {
         "name": "HONOR X5 Plus",
@@ -230,10 +247,12 @@
           {
             "path": "da/huawei/DA_PL_M6765_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "crt_an00": {
         "name": "HONOR X50I",
@@ -241,10 +260,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "lly_an00": {
         "name": "HONOR X50I Plus",
@@ -252,10 +273,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "gfy_lx2": {
         "name": "HONOR X5B",
@@ -263,10 +286,12 @@
           {
             "path": "da/huawei/DA_PL_M6765_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "vne_lx2": {
         "name": "HONOR X6",
@@ -274,10 +299,12 @@
           {
             "path": "da/huawei/DA_PL_M6765_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "wdy_lx1": {
         "name": "HONOR X6A",
@@ -285,10 +312,12 @@
           {
             "path": "da/huawei/DA_PL_M6765_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "jdy_lx2": {
         "name": "HONOR X6B",
@@ -296,10 +325,12 @@
           {
             "path": "da/huawei/DA_PL_M6833_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       },
       "rky_l03": {
         "name": "HONOR X7A",
@@ -307,10 +338,12 @@
           {
             "path": "da/huawei/DA_PL_M6765_HONOR.bin",
             "flags": {
-              "carbonara": true
+              "carbonara": true,
+              "only_stage1": true
             }
           }
-        ]
+        ],
+        "auth_file": null
       }
     }
   }
