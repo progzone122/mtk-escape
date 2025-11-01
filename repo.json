@@ -412,6 +412,550 @@
         ],
         "auth_file": null
       }
+    },
+    "itel": {
+      "a666l": {
+        "name": "P55",
+        "da_files": [
+          {
+            "path": "da/FDL/T606_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          },
+          {
+            "path": "da/FDL1/P683L.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a661n": {
+        "name": "P55 5G - AUTH",
+        "da_files": [
+          {
+            "path": "da/infinix/NEW_LOADER_10_2024/MT6833_2.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a665l": {
+        "name": "A70",
+        "da_files": [
+          {
+            "path": "da/FDL1/P683L.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          },
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s666l": {
+        "name": "RS4",
+        "da_files": [
+          {
+            "path": "da/infinix/MT6789_2.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s681ln": {
+        "name": "S23 Plus",
+        "da_files": [
+          {
+            "path": "da/FDL1/X668.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          },
+          {
+            "path": "da/FDL/T606_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s667ln": {
+        "name": "S24",
+        "da_files": [
+          {
+            "path": "da/infinix/MT6768_2.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s661l": {
+        "name": "Vision 3",
+        "da_files": [
+          {
+            "path": "da/FDL1/S661L.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          },
+          {
+            "path": "da/FDL/9863A.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l5006c": {
+        "name": "A23 Pro",
+        "da_files": [
+          {
+            "path": "da/FDL/A23R_Pro_Jio_Loader.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a511lq": {
+        "name": "A23S",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l5002": {
+        "name": "A25",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a571l": {
+        "name": "A26",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a551l": {
+        "name": "A27",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l5503": {
+        "name": "A46",
+        "da_files": [
+          {
+            "path": "da/FDL/A46_L5503_Loader.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l5505": {
+        "name": "A47",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l6006": {
+        "name": "A48",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a661l": {
+        "name": "A49",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a631l": {
+        "name": "A49 Play",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a667l": {
+        "name": "A50",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a669l": {
+        "name": "A50C",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a662l": {
+        "name": "A60",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a662lm": {
+        "name": "A60S",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a671l": {
+        "name": "A80",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "c671l": {
+        "name": "City 100",
+        "da_files": [
+          {
+            "path": "da/FDL/C671L.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "p662l": {
+        "name": "P40",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "p683l": {
+        "name": "Vision 3 Plus",
+        "da_files": [
+          {
+            "path": "da/FDL/T612_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "p665l": {
+        "name": "P55T",
+        "da_files": [
+          {
+            "path": "da/FDL/T606_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          },
+          {
+            "path": "da/FDL1/P683L.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "p10001l": {
+        "name": "PAD 1",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "a663l": {
+        "name": "S18 / A05S",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s665ln": {
+        "name": "S23 4G",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s665l": {
+        "name": "S23 5G",
+        "da_files": [
+          {
+            "path": "da/FDL/ITEL_S23_5G_S665L.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s685ln": {
+        "name": "S25",
+        "da_files": [
+          {
+            "path": "da/FDL/T616_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l6005": {
+        "name": "Vision 1",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l6501": {
+        "name": "Vision 1 Plus",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l6502": {
+        "name": "Vision 1 Pro",
+        "da_files": [
+          {
+            "path": "da/FDL/9832E.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "l6503": {
+        "name": "Vision 2",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "p651l": {
+        "name": "Vision 2S",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "p663l": {
+        "name": "Vision 3 Plus",
+        "da_files": [
+          {
+            "path": "da/FDL/T612_64.bin",
+            "flags": {
+              "carbonara": true,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s662lc": {
+        "name": "Vision 5",
+        "da_files": [
+          {
+            "path": "da/FDL/9863A.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "s663lc": {
+        "name": "Vision 5 Plus",
+        "da_files": [
+          {
+            "path": "da/FDL/T606_64.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": true
+            }
+          }
+        ],
+        "auth_file": null
+      }
     }
   }
 }
