@@ -956,6 +956,73 @@
         ],
         "auth_file": null
       }
+    },
+    "vivo": {
+      "pd2238f": {
+        "name": "IQOO NEO 7 - Auth Free",
+        "da_files": [
+          {
+            "path": "da/vivo/MT6886.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": "auth/vivo/authfile_MT6762_0321.auth"
+      },
+      "pd1913f": {
+        "name": "S1",
+        "da_files": [
+          {
+            "path": "da/vivo/vivo_mtk_loader_auth_4.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "pd2285f": {
+        "name": "T2 PRO 5G / IQOO Z7 Pro 5G",
+        "da_files": [
+          {
+            "path": "da/vivo/MT6886.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "pd2346": {
+        "name": "T3 5G",
+        "da_files": [
+          {
+            "path": "da/vivo/MT6886.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": "auth/vivo/authfile_MT6762_0321.auth"
+      },
+      "pd2445f": {
+        "name": "T4X / IQOO Z10X",
+        "da_files": [
+          {
+            "path": "da/vivo/MT6878_1.bin",
+            "flags": {
+              "carbonara": false,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      }
     }
   }
 }
