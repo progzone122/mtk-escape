@@ -345,6 +345,73 @@
         ],
         "auth_file": null
       }
+    },
+    "dooge": {
+      "blade_gt_play": {
+        "name": "Blade GT Play",
+        "da_files": [
+          {
+            "path": "da/dooge/MT6855_0.bin",
+            "flags": {
+              "carbonara": true,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "blade_gt_pro": {
+        "name": "Blade GT Pro",
+        "da_files": [
+          {
+            "path": "da/dooge/MT6855_0.bin",
+            "flags": {
+              "carbonara": true,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "tab_e3_max": {
+        "name": "TAB E3 MAX",
+        "da_files": [
+          {
+            "path": "da/dooge/MT6789_0.bin",
+            "flags": {
+              "carbonara": true,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "tab_e3_plus": {
+        "name": "TAB E3 Plus",
+        "da_files": [
+          {
+            "path": "da/dooge/MT6789_0.bin",
+            "flags": {
+              "carbonara": true,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      },
+      "tab_e3_pro": {
+        "name": "TAB E3 Pro",
+        "da_files": [
+          {
+            "path": "da/dooge/MT6789_0.bin",
+            "flags": {
+              "carbonara": true,
+              "only_stage1": false
+            }
+          }
+        ],
+        "auth_file": null
+      }
     }
   }
 }
