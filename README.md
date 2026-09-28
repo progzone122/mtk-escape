@@ -1,4 +1,11 @@
+> ⚠️ WARNING!
+> 
+> The repository has been moved to [umbrage-repo](https://github.com/progzone122/umbrage-repo)
+> 
+
+
 # MTK Escape!
+
 A handy repository with **Download Agent (DA)** and **auth files** for MTK devices.
 
 The goal of this project is to provide MTK device owners with DA and `.auth` files to improve device repairability, unlock bootloaders, or enable further modifications.
